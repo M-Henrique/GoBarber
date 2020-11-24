@@ -8,7 +8,6 @@ import UserMap from '@modules/users/mappers/UserMap';
 
 export default class ProfileController {
    public async show(request: Request, response: Response): Promise<Response> {
-      console.log(request.user);
       const user_id = request.user.id;
 
       const showProfile = container.resolve(ShowProfileService);

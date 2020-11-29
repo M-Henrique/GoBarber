@@ -23,7 +23,6 @@ class ResetPasswordService {
    ) {}
 
    public async execute({ token, password }: IRequestDTO): Promise<void> {
-      console.log(token);
       const userToken = await this.userTokensRepository.findByToken(token);
       if (!userToken) throw new AppError('User token does not exist');
 

@@ -3,7 +3,6 @@ import AppError from '@shared/errors/AppError';
 import ShowProfileService from './ShowProfileService';
 
 import FakeUsersRepository from '../repositories/fakes/FakeUsersRepository';
-import usersRouter from '../infra/http/routes/users.routes';
 
 let fakeUsersRepository: FakeUsersRepository;
 let showProfile: ShowProfileService;

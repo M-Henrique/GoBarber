@@ -19,7 +19,7 @@
 
 
 ## :clipboard: About the Project
-   <p align="justify">
+   <p align="justify"> GoBarber presents itself as a system similar to the likes of "Uber" or "Ifood"; a platform aiming to facilitate the making of appointments and general communication between barbers and clients interested in their services. It is a solid and robust platform, with functionalities such as login, customized notifications, interactive calendar, multiple appointments, profile management, etc.
     </p>
    
 ## :hammer: Built With
@@ -30,31 +30,15 @@
   - [MongoDB](https://www.mongodb.com/)
   - [Redis](https://redis.io/)
   - [TypeScript](https://www.typescriptlang.org/)
-  
-## :rocket: Contributing
-  GeoSQL is an open source project. If you have the interest in contributing, you can do so either by contacting us directly (e-mails at a later section) or making direct changes to the platform via pull requests:
-
-  1. Fork the Project
-  2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-  3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-  4. Push to the Branch (`git push origin feature/AmazingFeature`)
-  5. Open a Pull Request
-  
-  Some information regarding the development environment of the application:
-  
-  - Frontend: Port 3000
-  - Backend: Port 3333
-  - BASE_URL: base url used by react router if the application is under some route like http://www.example.com/geosql
-  - REACT_APP_API_URL: represents the backend public url, where axios can find the api
 
 ## :computer: Usage
-  The platform is available for use at [http://greenwich.lbd.dcc.ufmg.br/](http://greenwich.lbd.dcc.ufmg.br/). The help page offers an extensive tutorial on the features and tools of the system.
+  
     
 ## :information_source: License
   This project is under the [MIT](LICENSE.md) license.
   
 ## :email: Contact
-  If you like the project and have the interest in contacting the responsibles directly, please send an email to [mhenrique.silva408@gmail.com](mhenrique.silva408@gmail.com) or [clodoveu@dcc.ufmg.br](clodoveu@dcc.ufmg.br) with the subject "GeoSQL".
+  If you like the project and have the interest in contacting me directly, please send an email to [mhenrique.silva408@gmail.com](mhenrique.silva408@gmail.com).
   
 ## :purple_heart: Acknowledgments
-  This platform is the product of a Scientific Initiation project developed at the [Departamento de Ciência da Computação (DCC)](https://www.dcc.ufmg.br/dcc/) of the [Universidade Federal de Minas Gerais (UFMG)](https://ufmg.br/). As such, it would not be possible without the sponsorship of the [Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq)](https://www.gov.br/cnpq/pt-br) and the guidance of [Clodoveu Davis A. Júnior](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4728961T5).
+  This project was developed with the guidance of Diego Fernandes, CTO at [Rocketseat](https://rocketseat.com.br/), as the final product of the "[Bootcamp GoStack](https://pages.rocketseat.com.br/gostack)" online course, an extensive 8 weeks training in JavaScript development.

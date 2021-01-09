@@ -13,7 +13,7 @@
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/M-Henrique/GoBarber?style=for-the-badge">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/M-Henrique/GoBarber?style=for-the-badge&color=yellowgreen">
   <img alt="GitHub license" src="https://img.shields.io/github/license/M-Henrique/GoBarber?style=for-the-badge&color=brightgreen"> 
-  <img alt="Github UFMG-DCC" src="https://img.shields.io/badge/UFMG-DCC-red?style=for-the-badge">
+  <img alt="Github UFMG-DCC" src="https://img.shields.io/badge/Rocketseat-red?style=for-the-badge&color=blueviolet">
 </p>
 
 
@@ -32,8 +32,31 @@
   - [TypeScript](https://www.typescriptlang.org/)
 
 ## :computer: Usage
-  
-    
+
+The web version of the app is more centered toward the barbers themselves, providing quick and easy interfaces for them to check their appointments details, as well as customizing their profile:
+
+Login Page            |  SignUp Page
+:-------------------------:|:-------------------------:
+![](Prints/Login.png)  |  ![](Prints/SignIn.png)
+
+Login Page            |  SignUp Page
+:-------------------------:|:-------------------------:
+![](Prints/Profile.png)  |  ![](Prints/Dashboard.png)
+
+The mobile version, on the other hand, focuses on giving users interactive tools for them to take a look at all available barbers, and make appointments with their favorite ones according to one's need and preferences:
+
+Login Page            |  SignUp Page
+:-------------------------:|:-------------------------:
+![](Prints/Mobile-Login.png)  |  ![](Prints/Mobile-SignIn.png)
+
+Profile Page            |  Dashboard Page
+:-------------------------:|:-------------------------:
+![](Prints/Mobile-Profile.png)  |  ![](Prints/Mobile-Dashboard.png)
+
+Appointment Creation Page         |  Appointment Accepted Page
+:-------------------------:|:-------------------------:
+![](Prints/Mobile-Appointments.png)  |  ![](Prints/Mobile-Appointment-Accepted.png)
+
 ## :information_source: License
   This project is under the [MIT](LICENSE.md) license.
   
